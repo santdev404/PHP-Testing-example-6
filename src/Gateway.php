@@ -1,8 +1,9 @@
 <?php
 
-namespace undefined;
+namespace App;
 
-class Gateway
+interface Gateway
 {
-    
+    public function create();
+
 }

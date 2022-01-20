@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":[]}
+{"version":1,"defects":{"Warning":6,"Tests\\SubscriptionTest::creating_a_subscription_marks_the_user_a_subscribed":4,"Tests\\SubscriptionTest::it_creates_a_stripe_subscription":1},"times":{"Warning":0.003,"Tests\\SubscriptionTest::creating_a_subscription_marks_the_user_a_subscribed":0.001,"Tests\\SubscriptionTest::it_creates_a_stripe_subscription":0.009}}

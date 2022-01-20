@@ -1,8 +1,11 @@
 <?php
 
-namespace undefined;
+namespace App;
 
-class StripeGateway
+class StripeGateway implements Gateway
 {
-    
+    public function create()
+    {
+        var_dump('Slow HTTP request in progress');
+    }
 }
